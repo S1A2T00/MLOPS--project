@@ -1,6 +1,4 @@
-# MLOPS--project
-This is a mlops project
-# 🚗 MLOps Project — Vehicle Insurance Data Pipeline
+🚗 MLOps Project — Vehicle Insurance Data Pipeline
 
 Welcome to this MLOps project, designed to demonstrate a robust, production-style pipeline for managing vehicle insurance data. This project showcases the tools, techniques, services, and features that go into building and deploying a real-world machine learning system — from raw data to a live, auto-deployed application.
 
